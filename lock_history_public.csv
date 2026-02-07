@@ -1,0 +1,6 @@
+﻿Timestamp,Event,Details
+"2026-01-30 11:46:21","LOCK",""
+"2026-01-30 11:46:29","FAILED ATTEMPT","Mot de passe incorrect saisi."
+"2026-01-30 11:46:47","UNLOCK",""
+"2026-01-30 11:47:21","LOCK",""
+"2026-01-30 11:47:33","UNLOCK",""
